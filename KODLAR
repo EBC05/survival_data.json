@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "last_updated": "9 Temmuz 2026",
+  "items": [
+    {
+      "id": 1,
+      "name": "Kuşburnu",
+      "scientificName": "Rosa canina",
+      "category": "Flora (Bitki)",
+      "riskLevel": "Güvenli (Yenilebilir)",
+      "symptoms": "C vitamini deposu, zorlu şartlarda enerji verir.",
+      "firstAidProtocol": "Doğrudan yenebilir veya sıcak suda demlenebilir. Çekirdeklerindeki tüylere dikkat, boğazı tahriş edebilir.",
+      "hiddenTags": "kuşburnu, kusburnu, yaban gülü, c vitamini, yenecek bitki",
+      "lookAlikeName": "",
+      "lookAlikeWarning": ""
+    },
+    {
+      "id": 2,
+      "name": "Köygöçüren",
+      "scientificName": "Amanita phalloides",
+      "category": "Fungi (Mantar)",
+      "riskLevel": "Ölümcül!",
+      "symptoms": "12 saat sonra şiddetli kusma, karaciğer iflası.",
+      "firstAidProtocol": "KESİNLİKLE YEMEYİN. Tüketildiyse anında kusturun, aktif karbon yutturun ve S-O-S başlatın.",
+      "hiddenTags": "köygöçüren, koygocuren, amanita, zehirli mantar, ölüm meleği",
+      "lookAlikeName": "Kültür Mantarı",
+      "lookAlikeWarning": "Şapkanın altındaki lameller beyazsa zehirli olma ihtimali çok yüksektir!"
+    }
+  ]
+}
